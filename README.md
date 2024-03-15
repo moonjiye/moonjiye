@@ -61,6 +61,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=moonjiye)](https://git.io/streak-stats)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
 
 
 <!--
