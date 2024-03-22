@@ -1,10 +1,21 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2&text=Jiye's%20Github&fontAlign=50&textBg=false&section=header&fontSize=40&fontAlignY=42" />
-</br>
+<img alt="mona-loading" src="https://github.com/leegeunhyeok/leegeunhyeok/assets/26512984/d4af5032-1242-4b30-98e9-2e524ca2f273" width="80" />
   
-<div align="center">
+  👋 Hi, there! I'm **Jiye MOON**
+</div>
+<br><br>
 
-<h3>🛠️Tech Stacks🛠️</h3>
+**Who Am I**
+- 👩🏻‍💻 I’m currently a `Front-End, Back-End Developer` looking for a job. 
+- 🌱 I’m currently learning `Java, React`
+- 🤔 My interests lie in `Back-End, Front-End Development` as well as exploring new technologies. 
+- 📫 Don't hesitate to contact me! Please send me via [email](mailto:mjy6088@gmail.com)
+<br><br>
+
+
+**Languages and Tools** 
+<div align="center">
+<p><b>🛠️Tech Stacks🛠️</b></p>
 <!-- HTML5 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <!-- CSS3 -->
@@ -36,7 +47,7 @@
 <!-- Flask -->
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-<h3>🛠️Test🛠️</h3>
+<p><b>🛠️Test🛠️</b></p>
 <!-- Junit5 -->
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <!-- Swagger -->
@@ -44,12 +55,12 @@
 <!-- Postman -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-<h3>🛠️Deploy🛠️</h3>
+<p><b>🛠️Deploy🛠️</b></p>
 <!-- AWS -->
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 
-<h3>🛠️Collaboration Tools🛠️</h3>
+<p><b>🛠️Collaboration Tools🛠️</b></p>
 <!-- Github -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <!-- Figma -->
@@ -59,9 +70,8 @@
 </br>
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moonjiye)](https://git.io/streak-stats)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
+![Jiye's github stats](https://github-readme-stats.vercel.app/api?username=moonjiye&show_icons=true)
 
 
 <!--
@@ -78,20 +88,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=JIYEMOON&fontSize=40) 
--->
-
-
-
-<!-- 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonjiye&exclude_repo=dkssud8150.github.io&layout=compact&theme=white" />
-</a>
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonjiye&theme=white&show_icons=true" width="40%" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
-
-</div>
 -->
