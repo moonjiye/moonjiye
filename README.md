@@ -6,7 +6,7 @@
 
 - **Language**
   `JavaScript` `Java` `Python` <br>
-- **framework/Library**
+- **Framework/Library**
   `SpringBoot` `JPA` `react` `nextjs` `flask` <br>
 - **Database**
   `Oracle` `MySQL` `MongoDB` `Firebase`<br>
