@@ -5,11 +5,7 @@
 </div>
 <br><br>
 
-**Who Am I**
-- 👩🏻‍💻 I’m currently a `Front-End, Back-End Developer` looking for a job. 
-- 🌱 I’m currently learning `Java, React`
-- 🤔 My interests lie in `Back-End, Front-End Development` as well as exploring new technologies. 
-- 📫 Don't hesitate to contact me! Please send me via [email](mailto:mjy6088@gmail.com)
+- 📫 contact! [email](mailto:mjy6088@gmail.com)
 <br><br>
 
 
@@ -24,10 +20,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <!-- React -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<!-- Styled-components -->
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<!-- jQuery -->
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </br>
 <!-- Java -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white">
@@ -39,8 +31,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 <!-- MySQL -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<!-- Elasticsearch -->
-<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
 </br>
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
